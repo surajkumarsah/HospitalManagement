@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492994246410",
+    "firebase_url": "https://hospitalmanagement-532c6.firebaseio.com",
+    "project_id": "hospitalmanagement-532c6",
+    "storage_bucket": "hospitalmanagement-532c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492994246410:android:542bae378be864dbcdacf3",
+        "android_client_info": {
+          "package_name": "com.example.hospitalmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492994246410-j7bu6bni7rme7q79osiedosa07kn12n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospitalmanagement",
+            "certificate_hash": "2871c95a1b37e71ffd1ac9719498a8da89b9dbcb"
+          }
+        },
+        {
+          "client_id": "492994246410-l6lr0t6372fuu8q2u2da35o0aq66fala.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfiGGDuI7CkOAbd4hPkUdnRDoSueIM0qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492994246410-l6lr0t6372fuu8q2u2da35o0aq66fala.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
