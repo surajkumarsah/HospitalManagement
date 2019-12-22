@@ -75,4 +75,3 @@ public class ShowDoctor_Activity extends AppCompatActivity implements Navigation
         adapter.startListening();
     }
 }
-
